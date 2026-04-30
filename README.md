@@ -8,7 +8,7 @@ API Explorer App using Flutter (Android Development ALA)
 
 ##  Project Description
 
-This project is developed as part of the Android Development ALA. The application demonstrates how to integrate a public REST API into a Flutter application, fetch JSON data from the internet, parse it, and display it in a structured and user-friendly UI using GridView.
+This project is developed as part of the Android Development ALA. The application demonstrates how to integrate a public REST API into a Flutter application, fetch JSON data from the internet, par[...] 
 
 The app connects to an online API and dynamically loads images and titles, making it a real-time data-driven application.
 
@@ -141,14 +141,6 @@ The app displays a list of photos with title and images using GridView layout.
 * JSON parsing and data modeling
 * UI design with GridView
 * GitHub project management
-
----
-
-##  Author
-
-Your Name:- Rajveer Gohil
-Enrollment No: 20230905090025
-Course: Android Development Framework 
 
 ---
 
